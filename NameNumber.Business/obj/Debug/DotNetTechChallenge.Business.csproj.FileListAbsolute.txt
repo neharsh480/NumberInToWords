@@ -1,0 +1,16 @@
+C:\Users\Dell\source\mycode\DotNetTechChallenge\DotNetTechChallenge.Business\bin\Debug\DotNetTechChallenge.Business.dll
+C:\Users\Dell\source\mycode\DotNetTechChallenge\DotNetTechChallenge.Business\bin\Debug\DotNetTechChallenge.Business.pdb
+C:\Users\Dell\source\mycode\DotNetTechChallenge\DotNetTechChallenge.Business\obj\Debug\DotNetTechChallenge.Business.csprojAssemblyReference.cache
+C:\Users\Dell\source\mycode\DotNetTechChallenge\DotNetTechChallenge.Business\obj\Debug\DotNetTechChallenge.Business.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\mycode\DotNetTechChallenge\DotNetTechChallenge.Business\obj\Debug\DotNetTechChallenge.Business.dll
+C:\Users\Dell\source\mycode\DotNetTechChallenge\DotNetTechChallenge.Business\obj\Debug\DotNetTechChallenge.Business.pdb
+C:\Users\Dell\source\mycode\DotNetTechChallenge\DotNetTechChallenge.Business\bin\Debug\DotNetTechChallenge.Common.dll
+C:\Users\Dell\source\mycode\DotNetTechChallenge\DotNetTechChallenge.Business\bin\Debug\DotNetTechChallenge.Common.pdb
+C:\Users\Dell\source\mycode\DotNetTechChallenge\DotNetTechChallenge.Business\obj\Debug\DotNetTechChallenge.Business.csproj.CopyComplete
+C:\Users\43078\Downloads\AQ_code test\DotNetTechChallenge\DotNetTechChallenge.Business\bin\Debug\DotNetTechChallenge.Business.dll
+C:\Users\43078\Downloads\AQ_code test\DotNetTechChallenge\DotNetTechChallenge.Business\bin\Debug\DotNetTechChallenge.Business.pdb
+C:\Users\43078\Downloads\AQ_code test\DotNetTechChallenge\DotNetTechChallenge.Business\bin\Debug\DotNetTechChallenge.Common.dll
+C:\Users\43078\Downloads\AQ_code test\DotNetTechChallenge\DotNetTechChallenge.Business\bin\Debug\DotNetTechChallenge.Common.pdb
+C:\Users\43078\Downloads\AQ_code test\DotNetTechChallenge\DotNetTechChallenge.Business\obj\Debug\DotNetTechChallenge.Business.csprojResolveAssemblyReference.cache
+C:\Users\43078\Downloads\AQ_code test\DotNetTechChallenge\DotNetTechChallenge.Business\obj\Debug\DotNetTechChallenge.Business.dll
+C:\Users\43078\Downloads\AQ_code test\DotNetTechChallenge\DotNetTechChallenge.Business\obj\Debug\DotNetTechChallenge.Business.pdb

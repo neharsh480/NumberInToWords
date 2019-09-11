@@ -1,0 +1,18 @@
+C:\Users\Dell\source\mycode\DotNetTechChallenge\DotNetTechChallenge.Business\bin\Release\DotNetTechChallenge.Business.dll
+C:\Users\Dell\source\mycode\DotNetTechChallenge\DotNetTechChallenge.Business\bin\Release\DotNetTechChallenge.Business.pdb
+C:\Users\Dell\source\mycode\DotNetTechChallenge\DotNetTechChallenge.Business\bin\Release\DotNetTechChallenge.Common.dll
+C:\Users\Dell\source\mycode\DotNetTechChallenge\DotNetTechChallenge.Business\bin\Release\DotNetTechChallenge.Common.pdb
+C:\Users\Dell\source\mycode\DotNetTechChallenge\DotNetTechChallenge.Business\obj\Release\DotNetTechChallenge.Business.csprojAssemblyReference.cache
+C:\Users\Dell\source\mycode\DotNetTechChallenge\DotNetTechChallenge.Business\obj\Release\DotNetTechChallenge.Business.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\mycode\DotNetTechChallenge\DotNetTechChallenge.Business\obj\Release\DotNetTechChallenge.Business.csproj.CopyComplete
+C:\Users\Dell\source\mycode\DotNetTechChallenge\DotNetTechChallenge.Business\obj\Release\DotNetTechChallenge.Business.dll
+C:\Users\Dell\source\mycode\DotNetTechChallenge\DotNetTechChallenge.Business\obj\Release\DotNetTechChallenge.Business.pdb
+D:\Project Record\My Working Folder\Prabhu\DotNetTechChallenge\DotNetTechChallenge.Business\bin\Release\DotNetTechChallenge.Business.dll
+D:\Project Record\My Working Folder\Prabhu\DotNetTechChallenge\DotNetTechChallenge.Business\bin\Release\DotNetTechChallenge.Business.pdb
+D:\Project Record\My Working Folder\Prabhu\DotNetTechChallenge\DotNetTechChallenge.Business\bin\Release\DotNetTechChallenge.Common.dll
+D:\Project Record\My Working Folder\Prabhu\DotNetTechChallenge\DotNetTechChallenge.Business\bin\Release\DotNetTechChallenge.Common.pdb
+D:\Project Record\My Working Folder\Prabhu\DotNetTechChallenge\DotNetTechChallenge.Business\obj\Release\DotNetTechChallenge.Business.csprojAssemblyReference.cache
+D:\Project Record\My Working Folder\Prabhu\DotNetTechChallenge\DotNetTechChallenge.Business\obj\Release\DotNetTechChallenge.Business.csproj.CoreCompileInputs.cache
+D:\Project Record\My Working Folder\Prabhu\DotNetTechChallenge\DotNetTechChallenge.Business\obj\Release\DotNetTechChallenge.Business.csproj.CopyComplete
+D:\Project Record\My Working Folder\Prabhu\DotNetTechChallenge\DotNetTechChallenge.Business\obj\Release\DotNetTechChallenge.Business.dll
+D:\Project Record\My Working Folder\Prabhu\DotNetTechChallenge\DotNetTechChallenge.Business\obj\Release\DotNetTechChallenge.Business.pdb

@@ -1,0 +1,6 @@
+E:\Secure_meters\DotNetTechChallenge\DotNetTechChallenge.Common\bin\Release\DotNetTechChallenge.Common.dll
+E:\Secure_meters\DotNetTechChallenge\DotNetTechChallenge.Common\bin\Release\DotNetTechChallenge.Common.pdb
+E:\Secure_meters\DotNetTechChallenge\DotNetTechChallenge.Common\obj\Release\NameNumber.Common.csprojAssemblyReference.cache
+E:\Secure_meters\DotNetTechChallenge\DotNetTechChallenge.Common\obj\Release\NameNumber.Common.csproj.CoreCompileInputs.cache
+E:\Secure_meters\DotNetTechChallenge\DotNetTechChallenge.Common\obj\Release\DotNetTechChallenge.Common.dll
+E:\Secure_meters\DotNetTechChallenge\DotNetTechChallenge.Common\obj\Release\DotNetTechChallenge.Common.pdb

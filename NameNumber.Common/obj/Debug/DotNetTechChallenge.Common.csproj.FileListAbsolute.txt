@@ -1,0 +1,11 @@
+C:\Users\Dell\source\mycode\DotNetTechChallenge\DotNetTechChallenge.Common\bin\Debug\DotNetTechChallenge.Common.dll
+C:\Users\Dell\source\mycode\DotNetTechChallenge\DotNetTechChallenge.Common\bin\Debug\DotNetTechChallenge.Common.pdb
+C:\Users\Dell\source\mycode\DotNetTechChallenge\DotNetTechChallenge.Common\obj\Debug\DotNetTechChallenge.Common.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\mycode\DotNetTechChallenge\DotNetTechChallenge.Common\obj\Debug\DotNetTechChallenge.Common.dll
+C:\Users\Dell\source\mycode\DotNetTechChallenge\DotNetTechChallenge.Common\obj\Debug\DotNetTechChallenge.Common.pdb
+C:\Users\Dell\source\mycode\DotNetTechChallenge\DotNetTechChallenge.Common\obj\Debug\DotNetTechChallenge.Common.csprojAssemblyReference.cache
+C:\Users\43078\Downloads\AQ_code test\DotNetTechChallenge\DotNetTechChallenge.Common\bin\Debug\DotNetTechChallenge.Common.dll
+C:\Users\43078\Downloads\AQ_code test\DotNetTechChallenge\DotNetTechChallenge.Common\bin\Debug\DotNetTechChallenge.Common.pdb
+C:\Users\43078\Downloads\AQ_code test\DotNetTechChallenge\DotNetTechChallenge.Common\obj\Debug\DotNetTechChallenge.Common.csprojResolveAssemblyReference.cache
+C:\Users\43078\Downloads\AQ_code test\DotNetTechChallenge\DotNetTechChallenge.Common\obj\Debug\DotNetTechChallenge.Common.dll
+C:\Users\43078\Downloads\AQ_code test\DotNetTechChallenge\DotNetTechChallenge.Common\obj\Debug\DotNetTechChallenge.Common.pdb

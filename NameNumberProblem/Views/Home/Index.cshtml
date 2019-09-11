@@ -1,0 +1,38 @@
+﻿@model InputViewModel
+@{
+    ViewBag.Title = "Index";
+}
+<div class="row margin-top-20">
+    <div class="col-sm-6">
+        @using (Html.BeginForm("Index", "Home", FormMethod.Post, new { id = "StartupForm" }))
+        {
+            <div class="form-group">
+                @Html.LabelFor(x => x.Name)
+                @Html.TextBoxFor(x => x.Name, new { @class = "form-control" })
+                @Html.ValidationMessageFor(x => x.Name)
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(x => x.Number)
+                @Html.TextBoxFor(x => x.Number, new { @class = "form-control" })
+                @Html.ValidationMessageFor(x => x.Number)
+            </div>
+            <input type="submit" class="btn btn-default" value="Submit">
+            <div class="form-group">
+                <label id="result"></label>
+            </div>
+        }
+    </div>
+</div>
+    <div class="row margin-top-20">
+        <div class="form-group">
+            <label>Result:</label>
+        </div>
+        <div class="form-group">
+            <label id="Result"></label>
+        </div>
+    </div>
+
+
+
+
+

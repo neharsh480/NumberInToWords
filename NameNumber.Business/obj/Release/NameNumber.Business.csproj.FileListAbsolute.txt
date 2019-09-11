@@ -1,0 +1,9 @@
+E:\Secure_meters\DotNetTechChallenge\DotNetTechChallenge.Business\bin\Release\DotNetTechChallenge.Business.dll
+E:\Secure_meters\DotNetTechChallenge\DotNetTechChallenge.Business\bin\Release\DotNetTechChallenge.Business.pdb
+E:\Secure_meters\DotNetTechChallenge\DotNetTechChallenge.Business\bin\Release\DotNetTechChallenge.Common.dll
+E:\Secure_meters\DotNetTechChallenge\DotNetTechChallenge.Business\bin\Release\DotNetTechChallenge.Common.pdb
+E:\Secure_meters\DotNetTechChallenge\DotNetTechChallenge.Business\obj\Release\NameNumber.Business.csprojAssemblyReference.cache
+E:\Secure_meters\DotNetTechChallenge\DotNetTechChallenge.Business\obj\Release\NameNumber.Business.csproj.CoreCompileInputs.cache
+E:\Secure_meters\DotNetTechChallenge\DotNetTechChallenge.Business\obj\Release\NameNumber.Business.csproj.CopyComplete
+E:\Secure_meters\DotNetTechChallenge\DotNetTechChallenge.Business\obj\Release\DotNetTechChallenge.Business.dll
+E:\Secure_meters\DotNetTechChallenge\DotNetTechChallenge.Business\obj\Release\DotNetTechChallenge.Business.pdb

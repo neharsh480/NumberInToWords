@@ -1,0 +1,25 @@
+C:\Users\43078\Downloads\AQ_code test\DotNetTechChallenge\DotNetTechChallenge.Business\bin\Debug\DotNetTechChallenge.Business.dll
+C:\Users\43078\Downloads\AQ_code test\DotNetTechChallenge\DotNetTechChallenge.Business\bin\Debug\DotNetTechChallenge.Business.pdb
+C:\Users\43078\Downloads\AQ_code test\DotNetTechChallenge\DotNetTechChallenge.Business\bin\Debug\DotNetTechChallenge.Common.dll
+C:\Users\43078\Downloads\AQ_code test\DotNetTechChallenge\DotNetTechChallenge.Business\bin\Debug\DotNetTechChallenge.Common.pdb
+C:\Users\43078\Downloads\AQ_code test\DotNetTechChallenge\DotNetTechChallenge.Business\obj\Debug\NameNumber.Business.csprojResolveAssemblyReference.cache
+C:\Users\43078\Downloads\AQ_code test\DotNetTechChallenge\DotNetTechChallenge.Business\obj\Debug\DotNetTechChallenge.Business.dll
+C:\Users\43078\Downloads\AQ_code test\DotNetTechChallenge\DotNetTechChallenge.Business\obj\Debug\DotNetTechChallenge.Business.pdb
+E:\Secure_meters\DotNetTechChallenge\DotNetTechChallenge.Business\bin\Debug\DotNetTechChallenge.Business.dll
+E:\Secure_meters\DotNetTechChallenge\DotNetTechChallenge.Business\bin\Debug\DotNetTechChallenge.Business.pdb
+E:\Secure_meters\DotNetTechChallenge\DotNetTechChallenge.Business\bin\Debug\DotNetTechChallenge.Common.dll
+E:\Secure_meters\DotNetTechChallenge\DotNetTechChallenge.Business\bin\Debug\DotNetTechChallenge.Common.pdb
+E:\Secure_meters\DotNetTechChallenge\DotNetTechChallenge.Business\obj\Debug\NameNumber.Business.csprojAssemblyReference.cache
+E:\Secure_meters\DotNetTechChallenge\DotNetTechChallenge.Business\obj\Debug\NameNumber.Business.csproj.CoreCompileInputs.cache
+E:\Secure_meters\DotNetTechChallenge\DotNetTechChallenge.Business\obj\Debug\NameNumber.Business.csproj.CopyComplete
+E:\Secure_meters\DotNetTechChallenge\DotNetTechChallenge.Business\obj\Debug\DotNetTechChallenge.Business.dll
+E:\Secure_meters\DotNetTechChallenge\DotNetTechChallenge.Business\obj\Debug\DotNetTechChallenge.Business.pdb
+E:\Secure_meters\NameNumberProblem\NameNumber.Business\bin\Debug\DotNetTechChallenge.Business.dll
+E:\Secure_meters\NameNumberProblem\NameNumber.Business\bin\Debug\DotNetTechChallenge.Business.pdb
+E:\Secure_meters\NameNumberProblem\NameNumber.Business\bin\Debug\DotNetTechChallenge.Common.dll
+E:\Secure_meters\NameNumberProblem\NameNumber.Business\bin\Debug\DotNetTechChallenge.Common.pdb
+E:\Secure_meters\NameNumberProblem\NameNumber.Business\obj\Debug\NameNumber.Business.csprojAssemblyReference.cache
+E:\Secure_meters\NameNumberProblem\NameNumber.Business\obj\Debug\NameNumber.Business.csproj.CoreCompileInputs.cache
+E:\Secure_meters\NameNumberProblem\NameNumber.Business\obj\Debug\NameNumber.Business.csproj.CopyComplete
+E:\Secure_meters\NameNumberProblem\NameNumber.Business\obj\Debug\DotNetTechChallenge.Business.dll
+E:\Secure_meters\NameNumberProblem\NameNumber.Business\obj\Debug\DotNetTechChallenge.Business.pdb

@@ -1,0 +1,16 @@
+C:\Users\43078\Downloads\AQ_code test\DotNetTechChallenge\DotNetTechChallenge.Common\bin\Debug\DotNetTechChallenge.Common.dll
+C:\Users\43078\Downloads\AQ_code test\DotNetTechChallenge\DotNetTechChallenge.Common\bin\Debug\DotNetTechChallenge.Common.pdb
+C:\Users\43078\Downloads\AQ_code test\DotNetTechChallenge\DotNetTechChallenge.Common\obj\Debug\DotNetTechChallenge.Common.dll
+C:\Users\43078\Downloads\AQ_code test\DotNetTechChallenge\DotNetTechChallenge.Common\obj\Debug\DotNetTechChallenge.Common.pdb
+E:\Secure_meters\DotNetTechChallenge\DotNetTechChallenge.Common\bin\Debug\DotNetTechChallenge.Common.dll
+E:\Secure_meters\DotNetTechChallenge\DotNetTechChallenge.Common\bin\Debug\DotNetTechChallenge.Common.pdb
+E:\Secure_meters\DotNetTechChallenge\DotNetTechChallenge.Common\obj\Debug\NameNumber.Common.csprojAssemblyReference.cache
+E:\Secure_meters\DotNetTechChallenge\DotNetTechChallenge.Common\obj\Debug\NameNumber.Common.csproj.CoreCompileInputs.cache
+E:\Secure_meters\DotNetTechChallenge\DotNetTechChallenge.Common\obj\Debug\DotNetTechChallenge.Common.dll
+E:\Secure_meters\DotNetTechChallenge\DotNetTechChallenge.Common\obj\Debug\DotNetTechChallenge.Common.pdb
+E:\Secure_meters\NameNumberProblem\NameNumber.Common\bin\Debug\DotNetTechChallenge.Common.dll
+E:\Secure_meters\NameNumberProblem\NameNumber.Common\bin\Debug\DotNetTechChallenge.Common.pdb
+E:\Secure_meters\NameNumberProblem\NameNumber.Common\obj\Debug\NameNumber.Common.csprojAssemblyReference.cache
+E:\Secure_meters\NameNumberProblem\NameNumber.Common\obj\Debug\NameNumber.Common.csproj.CoreCompileInputs.cache
+E:\Secure_meters\NameNumberProblem\NameNumber.Common\obj\Debug\DotNetTechChallenge.Common.dll
+E:\Secure_meters\NameNumberProblem\NameNumber.Common\obj\Debug\DotNetTechChallenge.Common.pdb

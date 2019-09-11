@@ -1,0 +1,11 @@
+C:\Users\Dell\source\mycode\DotNetTechChallenge\DotNetTechChallenge.Common\bin\Release\DotNetTechChallenge.Common.dll
+C:\Users\Dell\source\mycode\DotNetTechChallenge\DotNetTechChallenge.Common\bin\Release\DotNetTechChallenge.Common.pdb
+C:\Users\Dell\source\mycode\DotNetTechChallenge\DotNetTechChallenge.Common\obj\Release\DotNetTechChallenge.Common.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\mycode\DotNetTechChallenge\DotNetTechChallenge.Common\obj\Release\DotNetTechChallenge.Common.dll
+C:\Users\Dell\source\mycode\DotNetTechChallenge\DotNetTechChallenge.Common\obj\Release\DotNetTechChallenge.Common.pdb
+D:\Project Record\My Working Folder\Prabhu\DotNetTechChallenge\DotNetTechChallenge.Common\bin\Release\DotNetTechChallenge.Common.dll
+D:\Project Record\My Working Folder\Prabhu\DotNetTechChallenge\DotNetTechChallenge.Common\bin\Release\DotNetTechChallenge.Common.pdb
+D:\Project Record\My Working Folder\Prabhu\DotNetTechChallenge\DotNetTechChallenge.Common\obj\Release\DotNetTechChallenge.Common.csprojAssemblyReference.cache
+D:\Project Record\My Working Folder\Prabhu\DotNetTechChallenge\DotNetTechChallenge.Common\obj\Release\DotNetTechChallenge.Common.csproj.CoreCompileInputs.cache
+D:\Project Record\My Working Folder\Prabhu\DotNetTechChallenge\DotNetTechChallenge.Common\obj\Release\DotNetTechChallenge.Common.dll
+D:\Project Record\My Working Folder\Prabhu\DotNetTechChallenge\DotNetTechChallenge.Common\obj\Release\DotNetTechChallenge.Common.pdb
